@@ -25,7 +25,7 @@ Explanation: You can perform the following operations:
 - Delete a 3 once more to earn 3 points. nums = [].
 You earn a total of 9 points.
  
- 
+
  */
 class Solution {
     private HashMap<Integer, Integer> points = new HashMap<>();
